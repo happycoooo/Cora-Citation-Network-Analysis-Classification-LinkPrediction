@@ -1,1 +1,1 @@
-# GNN_recommend_system
+# Cora-Citation-Network-Analysis-Classification-LinkPrediction
